@@ -1,2 +1,2 @@
-# My-DataCamp-Python-Projects
-My DataCamp Python Projects. They are made using Python. They include practical coding projects.
+# My-Python-Projects
+My Python Projects. They are made using Python. They include practical coding projects from DataCamp.
