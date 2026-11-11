@@ -1,0 +1,16 @@
+timestamp,server,severity,message
+2025-02-20 08:00:00,gamma,INFO,Node joined cluster
+2025-02-20 08:05:00,gamma,WARNING,Replication lag rising [WARN-REPL-02]
+2025-02-20 08:10:00,gamma,WARNING,Queue depth above threshold [WARN-QUE-01]
+2025-02-20 08:15:00,delta,ERROR,Write quorum lost [ERR-QUOR-01]
+2025-02-20 08:20:00,delta,INFO,Quorum re-established
+2025-02-20 08:25:00,gamma,WARNING,Cache hit ratio degraded [WARN-CACHE-03]
+2025-02-20 08:30:00,delta,CRITICAL,Data node offline [CRIT-NODE-02]
+2025-02-20 08:35:00,delta,ERROR,Failover triggered [ERR-FAIL-01]
+2025-02-20 08:40:00,gamma,INFO,Failover completed
+2025-02-20 08:45:00,gamma,DEBUG,Heartbeat received
+2025-02-20 08:50:00,delta,WARNING,Disk latency elevated [WARN-DISK-04]
+2025-02-20 08:55:00,delta,INFO,Latency returned to baseline
+2025-02-20 09:00:00,gamma,ERROR,Index rebuild failed [ERR-IDX-01]
+2025-02-20 09:05:00,gamma,INFO,Index rebuild retried
+2025-02-20 09:10:00,delta,INFO,Snapshot archived

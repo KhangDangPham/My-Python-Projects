@@ -1,0 +1,11 @@
+timestamp,server,severity,message
+2025-01-15 10:30:00,beta,INFO,System startup complete
+2025-01-15 10:45:00,beta,WARNING,CPU usage spike on core 2 [WARN-CPU-01]
+2025-01-15 10:46:00,beta,ERROR,Process killed: worker-7 [ERR-OOM-01]
+2025-01-15 11:00:00,beta,INFO,Worker-7 restarted successfully
+2025-01-15 11:20:00,beta,ERROR,SSL certificate expiring [ERR-CERT-01]
+2025-01-15 11:25:00,beta,WARNING,Slow query detected: 4500ms [WARN-PERF-01]
+2025-01-15 11:30:00,beta,ERROR,Connection refused: cache-redis [ERR-CONN-02]
+2025-01-15 11:31:00,beta,ERROR,Fallback cache activated [ERR-CACH-01]
+2025-01-15 11:45:00,beta,INFO,Redis connection restored
+2025-01-15 12:00:00,beta,INFO,Hourly metrics report generated

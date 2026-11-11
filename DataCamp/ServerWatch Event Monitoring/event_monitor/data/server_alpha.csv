@@ -1,0 +1,11 @@
+timestamp,server,severity,message
+2025-01-15 10:30:00,alpha,INFO,System startup complete
+2025-01-15 10:31:15,alpha,WARNING,High memory usage detected [WARN-MEM-01]
+2025-01-15 10:32:00,alpha,ERROR,Connection timeout to database [ERR-CONN-01]
+2025-01-15 10:33:30,alpha,INFO,Retry successful for db-prod-01
+2025-01-15 10:35:00,alpha,ERROR,Disk space low on /var/log [ERR-DISK-01]
+2025-01-15 11:00:00,alpha,INFO,Scheduled backup started
+2025-01-15 11:15:00,alpha,INFO,Scheduled backup completed
+2025-01-15 11:30:00,alpha,CRITICAL,Service unresponsive: auth-service [CRIT-SVC-01]
+2025-01-15 11:31:00,alpha,ERROR,Health check failed for auth-service [ERR-HLTH-01]
+2025-01-15 11:32:00,alpha,INFO,Auto-restart initiated for auth-service

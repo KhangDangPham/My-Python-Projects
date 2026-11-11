@@ -1,0 +1,6 @@
+{"alert_id": "ALT-001", "timestamp": "2025-01-15 10:32:00", "severity": "ERROR", "source": "alpha", "message": "Connection timeout [ERR-CONN-01]"}
+{"alert_id": "ALT-002", "timestamp": "2025-01-15 10:35:00", "severity": "ERROR", "source": "alpha", "message": "Disk space low [ERR-DISK-01]"}
+{"alert_id": "ALT-003", "timestamp": "2025-01-15 10:46:00", "severity": "ERROR", "source": "beta", "message": "Process killed [ERR-OOM-01]"}
+{"alert_id": "ALT-004", "timestamp": "2025-01-15 11:20:00", "severity": "ERROR", "source": "beta", "message": "SSL certificate expiring [ERR-CERT-01]"}
+{"alert_id": "ALT-005", "timestamp": "2025-01-15 11:30:00", "severity": "CRITICAL", "source": "alpha", "message": "Service unresponsive [CRIT-SVC-01]"}
+{"alert_id": "ALT-006", "timestamp": "2025-01-15 11:30:00", "severity": "ERROR", "source": "beta", "message": "Connection refused [ERR-CONN-02]"}

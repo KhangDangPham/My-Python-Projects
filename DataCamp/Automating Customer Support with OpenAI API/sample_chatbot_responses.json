@@ -1,0 +1,32 @@
+[
+  {
+    "query_text": "How do I reset my password?",
+    "retrieved_response": "You can reset your password by clicking 'Forgot Password' on the login page.",
+    "timestamp": "2026-07-18T01:51:24.772632Z",
+    "confidence_score": 0.913
+  },
+  {
+    "query_text": "When can I talk to someone from support?",
+    "retrieved_response": "Our support team is available from 9 AM to 5 PM, Monday to Friday.",
+    "timestamp": "2026-07-18T01:51:25.029699Z",
+    "confidence_score": 0.841
+  },
+  {
+    "query_text": "What is your detailed refund policy for digital products?",
+    "retrieved_response": "Yes, refunds are available within 30 days of purchase if you meet our refund policy criteria.",
+    "timestamp": "2026-07-18T01:51:25.241137Z",
+    "confidence_score": 0.766
+  },
+  {
+    "query_text": "How can I contact customer support?",
+    "retrieved_response": "You can contact technical support via our live chat or email at support@example.com.",
+    "timestamp": "2026-07-18T01:51:25.581674Z",
+    "confidence_score": 0.805
+  },
+  {
+    "query_text": "My order hasn't arrived yet, what should I do?",
+    "retrieved_response": "I apologize, but I'm having trouble processing your request right now. Please contact our support team for assistance.",
+    "timestamp": "2026-07-18T01:51:25.819416Z",
+    "confidence_score": 0.5
+  }
+]
